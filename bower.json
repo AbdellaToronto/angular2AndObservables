@@ -1,0 +1,17 @@
+{
+  "name": "angular2Observables",
+  "version": "0.0.0",
+  "directory": "bower_components",
+  "authors": [
+    "Abdella <abdella@rangle.io>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "assets/vendor",
+    "test",
+    "tests"
+  ]
+}
